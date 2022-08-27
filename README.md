@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @tchio1991
-- 👀 I’m interested in programar
-- 🌱 I’m currently learning programação
-- 💞️ I’m looking to collaborate on desenvolvimento
-- 📫 How to reach me 
+- 👋 Olá me Thiago Cardoso
+- 👀 Tenho interesse em programar, estou iniciando nesse mundo do TI.
+- 🌱 Atualmente tenho interesse em programação
+- 📫 Onde me encontrar
+Contatos:
+<div>
+         <a href = "mailto:thgbruno2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+         <a href="https://www.linkedin.com/in/thiago-cardoso-759a75216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
-<!---
-tchio1991/tchio1991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+<a href="https://github.com/tchio1991">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchio1991&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tchio1991&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+![Snake animation](https://github.com/tchio1991/tchio1991/blob/output/github-contribution-grid-snake.svg)
