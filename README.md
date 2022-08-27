@@ -1,5 +1,5 @@
 - 👋 Olá me Thiago Cardoso
-- 👀 Tenho interesse em programar, estou iniciando nesse mundo do TI.
+- 👀 Tenho interesse em programar, estou iniciando nesse mundo da tecnologia.
 - 🌱 Atualmente tenho interesse em programação
 - 📫 Onde me encontrar
 Contatos:
