@@ -1,6 +1,6 @@
    # Olá, seja bem vindo ao meu perfil! Me chamo Thiago Cardoso.
 - 👀 Estou iniciando nesse mundo da tecnologia.
-- 🌱 Atualmente tenho interesse em programação
+- 🌱 Estou estudando para me tornar um developer full stack
 - 📫 Onde me encontrar
 Contatos:
 <div>
