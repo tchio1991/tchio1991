@@ -16,13 +16,13 @@ Contatos:
    
  ### Conhecimentos.  
 <div>
-      <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="55px" height="55px" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="55px" height="55px" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="55px" height="55px" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="55px" height="55px" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="55px" height="55px" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="55px" height="55px" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/29/29553.png" width="55px" height="55px" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="55px" height="55px" target="_blank">
+      <a href="https://www.w3schools.com/html/" title="HTML" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="55px" height="55px" target="_blank"></a>
+      <a href="https://www.w3schools.com/css/default.asp" title="CSS" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="55px" height="55px" target="_blank"></a>
+      <a href="https://www.w3schools.com/js/default.asp" title="JavaScript" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="55px" height="55px" target="_blank"></a>
+      <a href="https://www.w3schools.com/php/default.asp" title="PHP" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="55px" height="55px" target="_blank"></a>
+      <a href="https://www.w3schools.com/java/default.asp" title="Java" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="55px" height="55px" target="_blank"></a>
+      <a href="https://www.w3schools.com/cs/index.php" title="C#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="55px" height="55px" target="_blank"></a>
+      <a href="https://www.w3schools.com/sql/default.asp" title="SQL" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/29/29553.png" width="55px" height="55px" target="_blank"></a>
+      <a href="https://www.w3schools.com/mysql/default.asp" title="MySQL" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="55px" height="55px" target="_blank"></a>
 </div>
 
