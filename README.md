@@ -14,6 +14,7 @@ Contatos:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tchio1991&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
    
+ ### Conhecimentos.  
 <div>
       <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="55px" height="55px" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="55px" height="55px" target="_blank">
