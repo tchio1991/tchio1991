@@ -13,3 +13,15 @@ Contatos:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchio1991&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tchio1991&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+   
+<div>
+      <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="55px" height="55px" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="55px" height="55px" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="55px" height="55px" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="55px" height="55px" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="55px" height="55px" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="55px" height="55px" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/29/29553.png" width="55px" height="55px" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="55px" height="55px" target="_blank">
+</div>
+
