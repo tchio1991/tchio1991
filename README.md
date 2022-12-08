@@ -10,8 +10,8 @@ Contatos:
 
 <div>
 <a href="https://github.com/tchio1991">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchio1991&layout=compact&theme=dracula" alt="juscelia's most languages"/>
-<img width="53%" src="https://github-readme-stats.vercel.app/api?username=tchio1991&show_icons=true&theme=dracula" alt="juscelia's stats"/> &nbsp;
+<img width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchio1991&layout=compact&theme=dracula" alt="juscelia's most languages"/>
+<img width="510em" src="https://github-readme-stats.vercel.app/api?username=tchio1991&show_icons=true&theme=dracula" alt="juscelia's stats"/> &nbsp;
 </div>
    
  ### Conhecimentos.  
