@@ -10,9 +10,15 @@ Contatos:
 
 <div>
 <a href="https://github.com/tchio1991">
-<img width="45%em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchio1991&layout=compact&theme=dracula" alt="juscelia's most languages"/>
-<img width="54%em" src="https://github-readme-stats.vercel.app/api?username=tchio1991&show_icons=true&theme=dracula" alt="juscelia's stats"/> &nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchio1991&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tchio1991&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/>
 </div>
+<table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tchio1991&theme=2077"/></td><td>
+<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tchio1991&theme=2077"/></td></tr></table>
+<table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tchio1991&theme=2077"/></td><td>
+<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tchio1991&theme=2077"/></td><td>
+<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tchio1991&theme=2077"/></td></tr></table>
+    <table><tr><td>
    
  ### Conhecimentos.  
 <div>
