@@ -1,5 +1,5 @@
    # Olá, seja bem vindo ao meu perfil! Me chamo Thiago Cardoso.
-- 👀 Estou iniciando nesse mundo da tecnologia.
+- 👀 Já tenho alguns anos de experiência nesse mundo da tecnologia.
 - 🌱 Estou sempre estudando e aplicando o que eu aprendi.
 - 📫 Onde me encontrar
 Contatos:
